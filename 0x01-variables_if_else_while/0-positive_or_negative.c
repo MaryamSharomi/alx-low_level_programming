@@ -9,7 +9,7 @@
  * main - Prints if number is poitive, zero or negative
  * Return: Always (Success)
  *
- */ 
+*/ 
 int main(void)
 
 {
